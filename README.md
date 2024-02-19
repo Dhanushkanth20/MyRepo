@@ -1,5 +1,4 @@
 # MyRepo
-Dhatu Technical University
 Welcome to Dhatu Technical University's official repository! This repository contains the source code for our first web page, showcasing the university's mission, courses, bootcamps, and job opportunities.
 
 Features:
