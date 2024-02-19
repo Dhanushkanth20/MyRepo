@@ -16,13 +16,6 @@ Use of Flexbox: The layout of the "About" section utilizes flexbox for a balance
 
 CSS Styling: A clean and simple CSS style sheet is included to enhance the visual presentation of the webpage.
 
-How to Use:
-Clone the repository to your local machine.
-
-git clone https://github.com/your-username/dhatu-university.git
-
-Open the index.html file in your preferred web browser to view the webpage.
-
 Feel free to customize the content, styles, and images to suit your preferences.
 
 Contributing:
